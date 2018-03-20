@@ -24,6 +24,7 @@ Depending on the kind of digital tool you have, the level of complexity for inst
 Describe any external resources which create a dependency for the reuse of the digital tool, such as libraries, frameworks, access to databases, and the corresponding licenses required to access each of these. Listing the latest version of these external resources that has been tested for use together with the digital tool is considered a best practice. 
 
     You can use this style format to differenciate the installation commands.
+    
 
 [This tool](https://github.com/EL-BID/SmartMap) offers a good example of a description of dependencies.
 
