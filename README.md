@@ -8,11 +8,14 @@
 (Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
 
 Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.)
+
 Este manual técnico tiene como objetivo describir las funcionalidades y los parámetros necesarios de los servicios web de la API eniax para el correcto uso de ella.
+
+La API permite acceder a datos ficticios que emulan la realidad. Los datos que entrega corresponden a citas médicas, incluye los siguientes parámetros: Fecha y hora, clínica y centro,  estado de cita, % de probabilidad de asistencia, nombre de paciente, tipo de paciente, nombre del médico y especialidad y finalmente valor de la cita médica.
 
 La documentación proveerá los servicios en formato JSON.
 
-Este documento está dirigido a desarrolladoras de Laboratoria .
+Este documento está dirigido a desarrolladoras de Laboratoria.
 
 ### Guía de usuario
 ---
