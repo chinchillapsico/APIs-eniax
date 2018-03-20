@@ -68,7 +68,7 @@ Andrea Miranda Echegoyen (alguna info de contacto)
 
 ### Licencia 
 ---
-[LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+[LICENCIA](https://github.com/chinchillapsico/APIs-eniax/blob/master/LICENSE.md)
 
 
 ## Limitación de responsabilidades
