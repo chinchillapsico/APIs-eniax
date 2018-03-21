@@ -2,7 +2,7 @@
 
 ## Documentación de Soporte y Uso de herramientas 
 
-### Eniax API
+###  ![Alt text](docs/logo-gmail.png)API
 ### Descripción y contexto
 ---
 Este manual técnico tiene como objetivo describir las funcionalidades y los parámetros necesarios de los servicios web de la API eniax para el correcto uso de ella.
