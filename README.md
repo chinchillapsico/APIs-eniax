@@ -51,6 +51,17 @@ Aquí hay un ejemplo de la respuesta al implementar la API:
      }
     
 
+#### Guía de estilos
+
+Los estilos a usar son:
+
+Colores:
+
+    celeste confirmación: rgb(73,197,191)
+    rojo anulación: rgb(226,109,106,1)
+    azul-info: rgb(74,130,198)
+    gris-oscuro: rgb(94,104,113)
+    gris-claro: rgb(153,153,153,1)
 
 
  	
