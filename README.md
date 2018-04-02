@@ -2,7 +2,7 @@
 
 ## Documentación de Soporte y Uso de herramientas 
 
-###  ![Alt text](docs/logo-gmail.png) 
+###  ![Alt text](docs/img/logo-gmail.png) 
     API
 ### Descripción y contexto
 ---
@@ -19,18 +19,36 @@ Este documento está dirigido a desarrolladoras de Laboratoria.
 *(Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.)*
 Aquí hay un ejemplo de la respuesta al implementar la API:
 
-    {
-     "pi": 3.141,
-     "happy": true,
-     "name": "Niels",
-     "nothing": null,
-     "answer": {
-     			"everything": 42
-     		},
-     "list": [1, 0, 2],
-     "object": {
-     "currency": "USD",
-     "value": 42.99
+
+     {
+      "hora": {
+    		"UniqueID": "WH555444",
+    		"data": {
+      			"dia": "28/05/2018",
+      			"hora": "15:00",
+      			"medico": {
+      					"nombre": "Alfredo Elberg Froimovich",
+      					"especialidad": "Médico general",
+      					"CoMorbid": [ "Hypertension", "CAD" ]
+    			},
+    		},
+      
+    "Labs": {
+      "LDLCholestrol": {
+        "LDLLevel": "122.5",
+        "LDLResultDate": "2012/07/06"
+      },
+      "SerumCreatinine": {
+        "CreatinineLevel": "1.4",
+        "CreatinineResultDate": "12/07/08"
+      }
+    },
+    "CareLocation": {
+      "FacilityName": "East Side Clinic",
+      "ContactEmail": "rsnurse@eastside.org"
+    }
+     }
+    }
      }
     
 
