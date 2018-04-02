@@ -1,6 +1,6 @@
 
 
-## Documentación de Soporte y Uso de herramientas ![Alt text](docs/img/logo-gmail.png)
+## Documentación de Soporte y Uso de herramientas 
 
     
 ### Descripción y contexto
